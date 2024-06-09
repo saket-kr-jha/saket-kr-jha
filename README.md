@@ -15,15 +15,15 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
 - I’m working as a Technology Lead and building large scale web applications.
 
 #### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saket-kr-jha&theme=dark&background=000000)](https://git.io/streak-stats) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&layout=compact&theme=light)](https://github.com/saket-kr-jha/github-readme-stats) -->
 
 <a href="https://github.com/saket-kr-jha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&theme=light&count_private=true&layout=compact" width="300" alt="Saket's most used languages" />
 </a>
 <a href="https://github.com/saket-kr-jha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="450" alt="Saket's github stats"/>
 </a>
 &nbsp;
 
