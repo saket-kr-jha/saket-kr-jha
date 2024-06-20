@@ -19,12 +19,15 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&layout=compact&theme=light)](https://github.com/saket-kr-jha/github-readme-stats) -->
 
-<a href="https://github.com/saket-kr-jha">
+<!--- <a href="https://github.com/saket-kr-jha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&theme=light&count_private=true&layout=compact" width="300" alt="Saket's most used languages" />
 </a>
 <a href="https://github.com/saket-kr-jha">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="450" alt="Saket's github stats"/>
 </a>
+
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saket's Github Stats">     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&layout=compact&theme=vision-friendly-dark)](https://github.com/alvarojj/github-readme-stats)
 &nbsp;
 
 #### :hammer_and_wrench: Languages and Tools :
