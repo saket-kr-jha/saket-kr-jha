@@ -7,12 +7,18 @@
     <a href="https://x.com/saketkrjha">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket-kr-jha&label=Profile%20views&color=0e75b6&style=flat" alt="saket-kr-jha" /> </p>
   </div>
 </div>
 
 #### 💻 &nbsp; About Me :
 I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a knack for crafting innovative and user-friendly web applications using Angular (8+).  I thrive in collaborative environments, leveraging strong problem-solving skills to contribute to a team-oriented culture.  Beyond the code, I'm experienced in all phases of the SDLC and enjoy working across design, development, and product to deliver successful projects.
 - I’m working as a Technology Lead and building large scale web applications.
+- 🌱 &nbsp; I’m currently learning building an website with React and C# .Net
+- 📫 &nbsp; How to reach me: Ping me on my Insta 
+- 💬 &nbsp; Ask me about anything related to .Net C# or Angular/TypeScript/JavaScript.
+- ⚡ &nbsp; Fun fact: The best way to get me to learn a new coding language? Promise a reward trip to a place with a killer gym!
+
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saket-kr-jha&theme=dark&background=000000)](https://git.io/streak-stats) 
@@ -28,7 +34,8 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
 
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saket's Github Stats">     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&layout=compact&theme=vision-friendly-dark)](https://github.com/alvarojj/github-readme-stats)
-&nbsp;
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saket-kr-jha&" alt="saket-kr-jha" /></p>
+&nbsp; 
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,11 +55,7 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
 &nbsp;&nbsp;
 
 
-- 🌱 &nbsp; I’m currently learning building an website with React and C# .Net
-- 📫 &nbsp; How to reach me: Ping me on my Insta 
-- 💬 &nbsp; Ask me about anything related to .Net C# or Angular/TypeScript/JavaScript.
-- ⚡ &nbsp; Fun fact: The best way to get me to learn a new coding language? Promise a reward trip to a place with a killer gym!
 
-  
+
 
 
