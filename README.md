@@ -34,7 +34,7 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
 
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=saket-kr-jha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="saket's Github Stats">     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saket-kr-jha&layout=compact&theme=vision-friendly-dark)](https://github.com/alvarojj/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saket-kr-jha&" alt="saket-kr-jha" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saket-kr-jha&theme=dark" alt="GitHub Streak" /></a>
 &nbsp; 
 
 #### :hammer_and_wrench: Languages and Tools :
