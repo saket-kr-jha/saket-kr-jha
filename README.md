@@ -17,7 +17,7 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
 - 🌱 &nbsp; I’m currently learning building an website with React and C# .Net
 - 📫 &nbsp; How to reach me: Ping me on my Insta 
 - 💬 &nbsp; Ask me about anything related to .Net C# or Angular/TypeScript/JavaScript.
-- ⚡ &nbsp; Fun fact: The best way to get me to learn a new coding language? Promise a reward trip to a place with a killer gym!
+- ⚡ &nbsp; Fun fact: The best way to get me to learn a new coding language?
 
 
 #### :fire: My Stats :
