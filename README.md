@@ -11,12 +11,27 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me :
-I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a knack for crafting innovative and user-friendly web applications using Angular (8+).  I thrive in collaborative environments, leveraging strong problem-solving skills to contribute to a team-oriented culture.  Beyond the code, I'm experienced in all phases of the SDLC and enjoy working across design, development, and product to deliver successful projects.
-- I’m working as a Technology Lead and building large scale web applications.
-- 🌱 &nbsp; I’m currently learning building an website with React and C# .Net
+#### About Me 👨‍💻:
+
+I am a results-driven Software Professional with 7 years of experience, currently serving as a Technology Lead at Infosys. My expertise lies in full-stack development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, with a strong focus on frontend technologies like Angular 14, TypeScript, and SCSS, as well as backend technologies like .NET Core Web API and SQL. I have a proven track record of delivering high-impact, user-centric solutions and leading Agile teams to success by ensuring projects meet quality, scope, and timeline standards.
+
+In my current role, I lead high-performing Agile teams to deliver responsive, scalable, and performant software solutions. I specialize in building cloud-based applications using Azure and Alibaba Cloud, deploying CI/CD pipelines, and implementing DevOps practices for efficient deployments. My collaborative approach with QA teams ensures seamless integration and rapid resolution of issues, boosting productivity and development efficiency.
+
+Over the years, I have spearheaded key initiatives such as the Azure-to-Alibaba Cloud migration, which reduced costs by 20%, and implemented an Azure-based CI/CD pipeline, cutting deployment time by 40%. These achievements highlight my ability to innovate and optimize processes to enhance system reliability and scalability.
+
+When I'm not coding, I thrive on problem-solving, exploring the latest technologies, and collaborating with cross-functional teams to build innovative solutions. Let's connect and create impactful projects together!
+
 - 📫 &nbsp; How to reach me: Ping me on my Insta 
 - 💬 &nbsp; Ask me about anything related to .Net C# or Angular/TypeScript/JavaScript.
+
+#### 🚀 Highlights:
+
+🖥️ Frontend Expertise: Angular 14, TypeScript, SCSS, RxJS, Ngrx, Bootstrap  
+🔗 Backend Proficiency: .NET Core Web API, RESTful Services, SQL, MySQL  
+🧪 Testing Tools: Jest, Jasmine, Karma, Protractor  
+☁️ Cloud & DevOps: Azure CI/CD, Azure DevOps, Alibaba Cloud  
+🤝 Collaboration: Agile (Scrum, Kanban), Jira, Code Reviews  
+🏆 Achievements: Insta Award for Excellence, Cost Reduction & CI/CD Optimization  
 
 
 #### :fire: My Stats :
@@ -41,6 +56,10 @@ I'm a passionate Frontend Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="azuresqldatabase" alt="azuresqldatabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
